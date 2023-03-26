@@ -38,3 +38,6 @@ node_modules
 **/node_modules
 **node_modules
 /node_modules/
+*/maps/node_modules
+fabsblog/FrontEnd/maps/node_modules
+/Users/fabian.romero/Documents/webpages/fabsblog/FrontEnd/maps/node_modules
