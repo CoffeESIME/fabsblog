@@ -36,8 +36,5 @@
     transform: rotate(360deg);
   }
 }
-.leaflet-container {
-  width: 100vw;
-  height: 100vh;
-}
+
 @import url('https://unpkg.com/leaflet@1.5.1/dist/leaflet.css');
