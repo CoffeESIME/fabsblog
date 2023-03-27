@@ -6,10 +6,10 @@ return (
     <Row className="mb-3" >
     <Navbar bg="dark" variant="dark">
     <Container>
-    <Navbar.Brand href="#">Bicicletas</Navbar.Brand>
+    <Navbar.Brand href="#">Senderos</Navbar.Brand>
     <Nav className="me-auto">
-      <Nav.Link href="/bicicletas">Inicio</Nav.Link>
-      <Nav.Link href="/bicicletas/crear">Crear</Nav.Link>
+      <Nav.Link href="/map">Inicio</Nav.Link>
+      <Nav.Link href="/map/create">Crear</Nav.Link>
    </Nav>
     </Container>
   </Navbar>
